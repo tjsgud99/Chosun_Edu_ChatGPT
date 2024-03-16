@@ -37,3 +37,4 @@ print(completion.choices[0].message)
 # 2.챗봇 개발 완성 -> Bard 모델 변경 -> Bard API 처음부터 개발 -> 프레임워크(LLM)
 
 # -> LangChain 프레임워크(코드 동일 : 모델 바꾸면)
+# 123938293
